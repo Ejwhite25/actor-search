@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
-const TMDB_API_KEY = "b074e99c9069a27abe3e3110b0573f85";
-const OMDB_API_KEY = "983eb611";
+const TMDB_API_KEY = "Get from TMDB API";
+const OMDB_API_KEY = "From OMDB";
 
 export default function App() {
   const [actor1, setActor1] = useState("");
