@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Get api keys from TMDB and OMDB
+ Open [OMDB](https://www.omdbapi.com) to create OMDB key.
+ Open [TMDB](https://developer.themoviedb.org/docs/getting-started) to obtain TMDB keys.
+
 ## Available Scripts
 
 In the project directory, you can run:
